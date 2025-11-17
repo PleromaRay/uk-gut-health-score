@@ -8,8 +8,8 @@ NDNS-powered Python tool to assess and improve UK gut health
 
 A simple, scientifically grounded Python CLI tool that calculates a **Gut Health Score (0–100)** using real data from the **UK National Diet and Nutrition Survey (NDNS)** and gives personalised, evidence-based recommendations.
 
-Built by **Rachel Ebosserme** – MSc Food Sciences for Innovation and Authenticity (Free University of Bozen-Bolzano, 2024 | Final grade 89/110)  
-Thesis: *In vitro colonic fermentation of ellagitannin-rich tablets: quantification of gut microbial metabolites*
+Built by **Rachel** – MSc Food Sciences (Free University of Bozen-Bolzano, 2024 )  
+Thesis: *In vitro colonic fermentation of polyphenol-rich tablets: quantification of gut microbial metabolites*
 
 ### Why this matters
 - Only **<10%** of UK adults meet the 30 g/day fiber recommendation  
